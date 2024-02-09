@@ -1,0 +1,2 @@
+參考的人：result 屬性：c_no
+被參考：user 屬性：sid

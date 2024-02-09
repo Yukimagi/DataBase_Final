@@ -1,0 +1,4 @@
+參考的人：students 屬性：sid
+被參考：vote 屬性：eid
+參考的人：students 屬性：sid
+被參考：vote 屬性：eid
